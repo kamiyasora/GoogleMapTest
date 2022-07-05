@@ -22,4 +22,5 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.googlemaptest", appContext.packageName)
     }
 }
-
+//変更しました
+//developに送れているかテスト
