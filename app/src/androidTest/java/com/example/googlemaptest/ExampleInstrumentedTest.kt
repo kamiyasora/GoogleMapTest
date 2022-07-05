@@ -10,7 +10,7 @@ import org.junit.Assert.*
 
 /**
  * Instrumented test, which will execute on an Android device.
- *
+ *fir
  * See [testing documentation](http://d.android.com/tools/testing).
  */
 @RunWith(AndroidJUnit4::class)
@@ -22,4 +22,7 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.googlemaptest", appContext.packageName)
     }
 }
+
+
+//コメントしてみた
 
