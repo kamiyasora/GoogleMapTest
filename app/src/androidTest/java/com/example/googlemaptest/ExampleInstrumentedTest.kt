@@ -23,4 +23,3 @@ class ExampleInstrumentedTest {
     }
 }
 
-//developに送れているかテスト
